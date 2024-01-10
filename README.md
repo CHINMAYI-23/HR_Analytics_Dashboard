@@ -45,6 +45,7 @@ Help an organization to improve employee performance and improve employee retent
 6. Avg years - 7.2 years
 7. Attrition by gender: Total Male counts - 111 , Total Female counts - 53
 
-[HR Analytics Dashboard.pdf](https://github.com/CHINMAYI-23/HR_Analytics_Dashboard/files/13889770/HR.Analytics.Dashboard.pdf)
+![image](https://github.com/CHINMAYI-23/HR_Analytics_Dashboard/assets/87280846/168bb555-56c5-483f-a706-022f8d41eb39)
+
 
 
